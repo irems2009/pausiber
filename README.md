@@ -1,3 +1,3 @@
 # pausiber'in git-github eğitimine katıldım.
-# pausiber
+# pausiber devam derslerinde ilk günümüz.
 # pausiber
